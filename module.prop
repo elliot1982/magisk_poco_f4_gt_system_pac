@@ -1,0 +1,8 @@
+id=SYS_BOOST
+name=POCO_F4_GT 
+version=1
+versionCode=1
+author=Elliot
+description=переключатель режимов в шторке (выдать root)
+
+updateJson=
